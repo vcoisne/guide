@@ -52,6 +52,12 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - The candidate has no time deadline to accept/reject the offer. Only in cases that we have more candidates in the offer state for one opening where decisions need to be made. 
 
+## Notes 
+
 ### Exceptions 
 
-There are exceptions in the above steps for internship roles. The first step in this case is the Coding Challenges and then a technical Skype interview. 
+- There are exceptions in the above steps for internship roles. The first step in this case is the Coding Challenges and then a technical Skype interview. 
+ 
+ ### Feedback
+
+ - After the coding challenge it's very important to gain feedback of Maximo in every next step. 
